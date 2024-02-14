@@ -1,0 +1,32 @@
+body {
+    background-color: #f0f0f0; /* Light gray background */
+}
+
+h1 {
+    color: #d80a0a; /* Dark gray text color */
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #4caf50; /* Green */
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+#story {
+    font-weight: bold;
+    color: #333; /* Dark gray text color */
+}
+
+/* Add more styling as needed */
